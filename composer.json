@@ -1,0 +1,19 @@
+{
+    "name": "xi/repo",
+    "description": "你好world",
+    "type": "project",
+    "license": "mi",
+    "authors": [
+        {
+            "name": "zhaoyaxi",
+            "email": "zhaoyaxiphp@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"myrepo\\":"repo/test/"
+		}
+	}
+}
