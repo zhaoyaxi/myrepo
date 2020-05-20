@@ -6,10 +6,10 @@ class a{
     }
 
     public function pp(){
-		echo "hello2222 xx";
+		echo "hello2222 xx version2";
 	}
 	public static function dp(){
-	    echo "333333333";
+	    echo "4444444";
     }
 
 }
