@@ -1,7 +1,7 @@
 {
     "name": "zhaoyx/repo",
     "description": "你好world",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
